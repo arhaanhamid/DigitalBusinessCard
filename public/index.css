@@ -1,0 +1,61 @@
+* {
+    background: #23252C;
+    color:white;
+    margin: 0px;
+    padding: 0px;
+    font-family: Inter;
+}
+
+.dp{
+   height: 200px;
+   border-radius: 10px 10px 0px 0px;
+}
+
+.div-header{
+    border-radius: 10px 10px 0px 0px;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.butJoin{
+    width: 230px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;    
+}
+
+.div-mainContent{
+    padding: 0px 0px 20px 0px; 
+}
+
+.div-footer{
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 10px 10px;
+    background: #161619;    
+    justify-content:baseline;
+}
+
+.div-card{
+    text-align: center;  
+    border-radius: 10px 10px 10px 10px;
+    width: 270px;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;    
+    margin: auto;
+
+}
